@@ -43,8 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Methods\IsPrime.cs" />
     <Compile Include="Problem003\Problem003.cs" />
     <Compile Include="Problem004\Problem004.cs" />
+    <Compile Include="Problem007\Problem007.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Problem001\Problem001.cs" />
     <Compile Include="Problem002\Problem002.cs" />
