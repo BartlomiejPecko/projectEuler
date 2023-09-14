@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace projectEuler.Problem001
 {
-    // // https://projecteuler.net/problem=1
+    // https://projecteuler.net/problem=1
     class Problem001
     {
         public static void Run()
