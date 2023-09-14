@@ -5,6 +5,6 @@ Note: This repository was mainly made for fun. It will only contain the project 
 
 I chose c# because I like the aesthetics that VS provides. To run it, you will need the folder 'Methods' and selected problems you want. 
 
-I focus on making it as transparent and clear as I can. Project contains all reusable code in the folder 'Methods'.
+I focus on coding it the with most cleanliness I can. Project contains all reusable code in the folder 'Methods'.
 
 I tried expanding the use-case whenever possible, so not only it solves problem using the given number, but the user can input his own number to be calculated.
