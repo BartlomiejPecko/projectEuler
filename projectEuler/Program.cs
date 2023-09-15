@@ -6,11 +6,17 @@ namespace projectEuler
     {
         public static void Main(string[] args)
         {
-            // Problem001.Problem001.Run();
-            // Problem002.Problem002.Run();
-            // Problem003.Problem003.Run();
-            // Problem004.Problem004.Run();
-            Problem007.Problem007.Run();
+            //Problems.Problem001.Run();
+            //Problems.Problem002.Run();
+            //Problems.Problem003.Run();
+            //Problems.Problem004.Run();
+            Problems.Problem005.Run();
+            //Problems.Problem007.Run();
+            //Problems.Problem010.Run();
+            
+
+
+
 
 
             Console.ReadLine();

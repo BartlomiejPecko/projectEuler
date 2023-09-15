@@ -1,7 +1,7 @@
 ﻿using System;
 using projectEuler.Methods;
 
-namespace projectEuler.Problem003
+namespace projectEuler.Problems
 {
     // https://projecteuler.net/problem=3
     // Note this program requires IsPrime method from another directory.

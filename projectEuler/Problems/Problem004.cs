@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace projectEuler.Problem004
+namespace projectEuler.Problems
 {
     // https://projecteuler.net/problem=4
     class Problem004

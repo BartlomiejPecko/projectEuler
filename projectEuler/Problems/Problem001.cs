@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Linq;
 
-namespace projectEuler.Problem001
+namespace projectEuler.Problems
 {
     // https://projecteuler.net/problem=1
     class Problem001

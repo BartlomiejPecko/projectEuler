@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using projectEuler.Methods;
 
-namespace projectEuler.Problem007
+namespace projectEuler.Problems
 {
     // https://projecteuler.net/problem=7
     // I've extended the use-case so that not only it solves the 10001th prime number problem, it can calculate any Nth prime number all up to the 10001th prime.
@@ -38,7 +38,7 @@ namespace projectEuler.Problem007
             while (count < n)
             {
                 cand += 2;
-                if (IsPrime.Check(cand)) // Note that this method is in the folder methods. 
+                if (IsPrime.Check(cand)) //Uses IsPrime from Methods folder.
                     count++;
             }
             return cand;

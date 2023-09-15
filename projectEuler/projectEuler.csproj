@@ -44,16 +44,19 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Methods\IsPrime.cs" />
-    <Compile Include="Problem003\Problem003.cs" />
-    <Compile Include="Problem004\Problem004.cs" />
-    <Compile Include="Problem007\Problem007.cs" />
+    <Compile Include="Problems\Problem003.cs" />
+    <Compile Include="Problems\Problem004.cs" />
+    <Compile Include="Problems\Problem005.cs" />
+    <Compile Include="Problems\Problem007.cs" />
+    <Compile Include="Problems\Problem010.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Problem001\Problem001.cs" />
-    <Compile Include="Problem002\Problem002.cs" />
+    <Compile Include="Problems\Problem001.cs" />
+    <Compile Include="Problems\Problem002.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
